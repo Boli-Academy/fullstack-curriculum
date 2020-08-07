@@ -11,7 +11,7 @@ module.exports = {
       "will index your page for"
     ]
   },
-  pathPrefix: "/fullstack-curriculum", // if you're using GitHub Pages, put the name of the repo here with a leading slash
+  pathPrefix: "/fullstack-curriculum/", // if you're using GitHub Pages, put the name of the repo here with a leading slash
   plugins: [
     `gatsby-plugin-layout`,
     {
