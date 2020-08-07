@@ -1,7 +1,7 @@
 ---
 path: "/sample"
 title: "Sample title"
-order: "9999A"
+order: "999A"
 section: "Sample section"
 description: "Welcome to the fullstack curriculum"
 ---
