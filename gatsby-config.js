@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter Course",
-    subtitle: "For making great content",
+    title: "Javascript Fullstack Curriculum",
+    subtitle: "From zero to a JS fullstack engineer",
     description:
-      "This is the description that will show up when people share as well as on search engines",
+      "Your path to becoming a JS fullstack engineer, starting from zero",
     keywords: [
       "this is",
       "a list of keywords and phrase",
