@@ -28,7 +28,7 @@ e.g you should watch
 
 1. Pick one data structure a week, say watch video 3 for stacks and queues
 1. Then go through her problem solution explanation videos on stacks and queues, e.g. videos 1 and 2
-1. Go to one of the algorithm practice platforms to practice problems for the given data structure (e.g. leetcode, hackerrank, codewars, algoexpert if FSA give you guys free membership)
+1. Go to one of the algorithm practice platforms to practice problems for the given data structure, e.g. leetcode, hackerrank, codewars, algoexpert if FSA give you guys free membership. [what are the steps to solve a problem?](#steps-to-solve-a-problem)
 1. Rinse repeat go through all other videos on the data structures playlist
 1. Then go through the algorithms playlist the same way
 
@@ -51,12 +51,15 @@ Thats it! these are all the steps required to ace an algorithm based technical i
 
 - **Algorithms** are common problem solving logics/patterns generally using a certain data structure that can be used to efficiently solve certain classes of problems
 
-- **Questions/Problems** are just that - they are a problem given to you for solving. Problems can be solved in many ways - it is ok to solve a problem in the easiest way that makes sense to you at first. But the goal is to eventually figure out and implement a better algorithm and data structure that generally results in a more efficient solution. There is no one correct best algorithm / data structure - all solutions will have tradeoffs in terms of the Big O of time vs. space; but there generally is an industry accepted best solution that you have to get familiar with. So the usual steps to solve a question is:
-  1. Find the easiest, naive solution to the problem. This will often not be efficient
-  2. If you have time, then find a more efficient solution
-  3. Once you find more than one solution, articulate the tradeoffs between the solutions
-  4. If you have even more time, is there a still more efficient solution?
-  5. From all your solutions, pick one that you think will best serve the current situation
+- **Questions/Problems** are just that - they are a problem given to you for solving. Problems can be solved in many ways - it is ok to solve a problem in the easiest way that makes sense to you at first. But the goal is to eventually figure out and implement a better algorithm and data structure that generally results in a more efficient solution. There is no one correct best algorithm / data structure - all solutions will have tradeoffs in terms of the Big O of time vs. space; but there generally is an industry accepted best solution that you have to get familiar with.
+
+##### Steps to solve a problem:
+
+1. Find the easiest, naive solution to the problem. This will often not be efficient
+1. If you have time, then find a more efficient solution
+1. Once you find more than one solution, articulate the tradeoffs between the solutions
+1. If you have even more time, is there a still more efficient solution?
+1. From all your solutions, pick one that you think will best serve the current situation
 
 ---
 
