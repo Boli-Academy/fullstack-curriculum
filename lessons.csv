@@ -1,5 +1,6 @@
 path,title,order,description,section
 "/intro","Introduction","1A","Welcome to the fullstack curriculum","Welcome"
+"/what-is-webapp","What is a web app","1B","Anatomy of a web app","Welcome"
 "/page-2","Page 2","2A","The second page","The Second Section"
 "/page-3","Page 3","2B","The third page","The Second Section"
 "/algorithms","Algorithms","900A","Algorithms","Job readiness"
