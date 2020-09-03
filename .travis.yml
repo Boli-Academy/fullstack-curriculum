@@ -9,18 +9,15 @@ cache:
     - node_modules
 install:
   - npm install
-before_script:
-  - npm install -g gatsby
-script:
-  - npm run buildTravis
 before_deploy:
-  - npm install -g travis-ci-cloudfront-invalidation
+  - npm install -g travis-ci-cloudfront-invalidation gatsby
+  - npm run buildTravis
 deploy:
   provider: s3
   access_key_id: $AWS_ACCESS_KEY_ID
   secret_access_key: $AWS_SECRET_ACCESS_KEY
   bucket: $S3_BUCKET
-  cleanup: false
+  skip_cleanup: true
   local_dir: ./public
   on:
     branch: master
