@@ -10,7 +10,7 @@ cache:
 install:
   - npm install
 before_script:
-  - npm install -g gatsby-cli
+  - npm install -g gatsby
 script:
   - npm run build
 before_deploy:
