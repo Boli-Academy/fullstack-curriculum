@@ -21,7 +21,7 @@ deploy:
   secret_access_key: $AWS_SECRET_ACCESS_KEY
   bucket: $S3_BUCKET
   cleanup: false
-  local_dir: public
+  local_dir: ./public
   on:
     branch: master
 after_deploy:
