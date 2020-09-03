@@ -1,7 +1,4 @@
 order,title,link0,link1,link2,link3,link4,link5
 1A,Introduction,,,,,,
 1B,What is a web app,,,,,,
-2A,Page 2,https://en.wikipedia.org/wiki/2,,,,,
-2B,Page 3,,,,,,
 900A,Algorithms,https://github.com/alxerg/Books-1/blob/master/Cracking%20the%20Coding%20Interview%2C%206th%20Edition%20189%20Programming%20Questions%20and%20Solutions.pdf,https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX,https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL,https://www.youtube.com/watch?v=wjI1WNcIntg&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX&index=4&t=40s,https://www.youtube.com/watch?v=IhJGJG-9Dx8&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX&index=2&t=0s,https://www.youtube.com/watch?v=7ArHz8jPglw&list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX&index=2
-999A,Sample title,https://www.frontendmasters.com,https://twitter.com/holtbt,https://btholt.github.io/complete-intro-to-containers/,,,
