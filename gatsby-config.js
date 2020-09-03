@@ -5,13 +5,12 @@ module.exports = {
     description:
       "Your path to becoming a JS fullstack engineer, starting from zero",
     keywords: [
-      "this is",
-      "a list of keywords and phrase",
-      "that search engines",
-      "will index your page for"
+      "Boli academy",
+      "JS Fullstack curriculum",
+      "JS Fullstack bootcamp"
     ]
   },
-  pathPrefix: "/fullstack-curriculum", // if you're using GitHub Pages, put the name of the repo here with a leading slash
+  pathPrefix: "/fullstack-curriculum",
   plugins: [
     `gatsby-plugin-layout`,
     {
