@@ -2,7 +2,7 @@ language: node_js
 os: linux
 dist: xenial
 node_js:
-  - "10"
+  - "14"
 cache:
   npm: true
   directories:
@@ -12,7 +12,7 @@ install:
 before_script:
   - npm install -g gatsby
 script:
-  - npm run build
+  - npm run buildTravis
 before_deploy:
   - npm install -g travis-ci-cloudfront-invalidation
 deploy:
