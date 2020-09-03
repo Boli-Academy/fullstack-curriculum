@@ -12,7 +12,9 @@ module.exports = {
   },
   pathPrefix: "/fullstack-curriculum",
   plugins: [
-    `gatsby-plugin-layout`,
+    {
+      resolve: `gatsby-plugin-layout`
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -20,7 +22,9 @@ module.exports = {
         name: "markdown-pages"
       }
     },
-    `gatsby-plugin-react-helmet`,
+    {
+      resolve: `gatsby-plugin-react-helmet`
+    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
