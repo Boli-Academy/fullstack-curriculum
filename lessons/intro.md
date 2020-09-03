@@ -6,4 +6,4 @@ section: "Welcome"
 description: "Welcome to the fullstack curriculum"
 ---
 
-Welcome to this javascript fullstack curriculum
+Welcome to the boli academy javascript fullstack curriculum
